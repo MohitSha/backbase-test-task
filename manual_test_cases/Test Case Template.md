@@ -4,6 +4,6 @@
 * Item 1
 * Item 2
 
-|Test Step | Expected result|
-|:------------: | :-------------:|
-{Step} | {Expected result}}|
+|#|Test Step | Expected result|
+|:-:|:------------: | :-------------:|
+| | {Step} | {Expected result}}|
